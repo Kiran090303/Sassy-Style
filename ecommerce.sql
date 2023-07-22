@@ -77,9 +77,9 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `email_id`, `first_name`, `last_name`, `phone`, `registration_time`, `password`) VALUES
-(65, 'sharew5m123@gmail.com', 'reys', 'rudt', 0, '2019-03-18 13:46:33', 'e4f194cba29960e12d8b8f1bfedc972b'),
-(66, 'sgah234@gmail.com', 'werty', 'erty', 0, '2019-03-18 13:55:46', 'e10adc3949ba59abbe56e057f20f883e'),
-(67, 'sham1234@gmail.com', 'Sham', 'das', 0, '2019-03-19 07:37:46', 'e10adc3949ba59abbe56e057f20f883e');
+(1, 'sharew5m123@gmail.com', 'reys', 'rudt', 0, '2019-03-18 13:46:33', '1234'),
+(2, 'sgah234@gmail.com', 'werty', 'erty', 0, '2019-03-18 13:55:46', '5678'),
+(3, 'sham1234@gmail.com', 'Sham', 'das', 0, '2019-03-19 07:37:46', '9102');
 
 -- --------------------------------------------------------
 
